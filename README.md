@@ -7,6 +7,13 @@ This is a short introduction about me.
 - ⚡ Fun fact: I consider myself Ted Mosby
 
 
+##
+
+<div align="center">
+  <p> <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> Listening to... <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> </p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12181318671&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f">
+</div>
+
 <!-- card porcentagem e card linguagens -->
 
 ##
