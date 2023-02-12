@@ -11,7 +11,7 @@ This is a short introduction about me.
 
 <div align="center">
   <p> <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> Listening to... <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> </p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12181318671&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xp95x9hsk79dpm38esj50lijv&cover_image=true&theme=default&show_offline=false&background_color=121212">
 </div>
 
 <!-- card porcentagem e card linguagens -->
