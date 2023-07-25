@@ -22,6 +22,7 @@ This is a short introduction about me.
   <a href="https://github.com/carlosdoceu/carlosdoceu">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdoceu&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoceu&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoceu&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
  <div>
