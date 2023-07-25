@@ -19,17 +19,20 @@ This is a short introduction about me.
 ##
 
 <div align="center" >
-<a href="https://github.com/carlosdoceu/carlosdoceu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdoceu&show_icons=true&theme=radical"/>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoceu&layout=compact&theme=radical" />
+  <a href="https://github.com/carlosdoceu/carlosdoceu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdoceu&show_icons=true&theme=radical"/>
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoceu&layout=compact&theme=radical" />
 </div>
 
  <div>
     
 <div align="center" > 
-  <a  href="https://www.instagram.com/carlos_the_sea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a  href = "mailto:carlosodmen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a  href="https://www.linkedin.com/in/carlos-omar-625b2a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.instagram.com/carlos_the_sea/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a  href = "mailto:carlosodmen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a  href="https://www.linkedin.com/in/carlos-omar-625b2a214/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div >
  </div>
