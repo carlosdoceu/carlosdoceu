@@ -8,6 +8,15 @@ Hi, I'm Carlos Omar, I'm a self-taught full stack web developer and computer sci
 
 
 ##
+**languages and tools:**  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,spring,docker,c,cpp,java,mysql,postman,py," />
+  </a>
+</p>
+
+
 
 <div align="center">
   <p> <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> Listening to... <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> </p>
