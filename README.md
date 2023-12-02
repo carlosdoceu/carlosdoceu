@@ -1,6 +1,6 @@
 ### Hi, I am Carlão 
 
-This is a short introduction about me.
+Hi, I'm Carlos Omar, I'm a self-taught full stack web developer and computer scientist here in Brazil. My passion for software lies in dreaming up ideas and making them reality, always looking for a way to overcome my failures and turn them into an experience.
 
 - 🔭 Studying front-end but interested in becoming full stack
 - 🌱Studying ANGULAR | JAVA | Js |Typescript
