@@ -12,9 +12,16 @@ Hi, I'm Carlos Omar, I'm a self-taught full stack web developer and computer sci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,spring,docker,c,cpp,java,mysql,postman,py," />
+    <img src="https://skillicons.dev/icons?i=git,angular,spring,docker,c,cpp,java,php,mysql,postman,py" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.joomla.org/">
+    <img src="https://img.shields.io/badge/-Joomla-FC6F27?style=for-the-badge&logo=joomla&logoColor=white" />
+  </a>
+</p>
+
 
 
 
