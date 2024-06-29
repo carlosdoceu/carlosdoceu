@@ -27,7 +27,7 @@ Hi, I'm Carlos Omar, I'm a self-taught full stack web developer and computer sci
 
 <div align="center">
   <p> <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> Listening to... <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> </p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xp95x9hsk79dpm38esj50lijv&cover_image=true&theme=default&show_offline=false&background_color=121212">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xp95x9hsk79dpm38esj50lijv&cover_image=true&theme=default&show_offline=false&background_color=121212">
 </div>
 
 <!-- card porcentagem e card linguagens -->
